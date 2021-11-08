@@ -1,5 +1,4 @@
-class bank_cust{
-    min_bal=500;                                        //property
+class bank_cust{                                                                                                                                                                                                                                                                                                                                                                              min_bal=500;                                        //property
     open_account(){
         console.log("Account opened successfully");     //method
     }
